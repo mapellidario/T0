@@ -38,9 +38,6 @@ setConfigVersion(tier0Config, "replace with real version")
 # Set run number to replay
 setInjectRuns(tier0Config, [ 335508 ])
 
-# Set lumi number to replay. 
-setLumi(tier0Config, 1)
-
 # Settings up sites
 processingSite = "T2_CH_CERN"
 streamerPNN = "T2_CH_CERN"
